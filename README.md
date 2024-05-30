@@ -2,7 +2,7 @@
 
 
 ## Overview
-Mood Sync is a web app that uses the Spotify API to analyze your recent listening history, recommend new songs, detect your mood, and display your top tracks and artists.
+[Mood Sync](https://mood-sync.netlify.app/) is a web app that uses the Spotify API to analyze your recent listening history, recommend new songs, detect your mood, and display your top tracks and artists.
 
 ## Problem
 Music enthusiasts often seek personalized recommendations and mood-based playlists to enhance their listening experience. Mood Sync addresses this need by providing customized song recommendations and mood detection based on users' Spotify data.
@@ -43,7 +43,9 @@ Music enthusiasts often seek personalized recommendations and mood-based playlis
 -  **Song Recommendations:**Provides personalized song recommendations.
 
 ## Mockups
--  Mockups for the project can be found in the watchlist folder.
+-  ![Mood Page](./images/FireShot%20Capture%20006%20-%20Parinaz%20Yousefi%20-%20Spotify%20app%20-%20localhost.png)
+-  ![Top Artists](./images/FireShot%20Capture%20007%20-%20Parinaz%20Yousefi%20-%20Spotify%20app%20-%20localhost.png)
+-  ![Top Tracks](./images/FireShot%20Capture%20008%20-%20Parinaz%20Yousefi%20-%20Spotify%20app%20-%20localhost.png)
 ## Data
 -  The project fetches data from the Spotify API, including information about user profiles, tracks, artists, and recommendations.
 
