@@ -1,0 +1,6 @@
+[submodule "spotify-api-app"]
+	path = spotify-api-app
+	url = https://github.com/parinazyousefi/spotify-api-app.git
+[submodule "spotify-api-backend"]
+	path = spotify-api-backend
+	url = https://github.com/parinazyousefi/spotify-api-backend.git
